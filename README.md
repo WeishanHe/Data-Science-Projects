@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Data Science projects which I conducted in the UCD MSBA program
+Data Science projects at the UCD MSBA program
