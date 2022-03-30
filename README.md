@@ -29,5 +29,3 @@ Build brand maps for car brands and recommend to Infinity's managers what they s
 6. Fraud Detection Using Supervised Machine Learning (in Python)
 
 7. Feature Selection Using Shrinkage Regressions (in R)
-
-Mediation Regression![image](https://user-images.githubusercontent.com/61961870/160739639-0ed69ba2-4c0b-45cf-bd97-34a7644c0981.png)
