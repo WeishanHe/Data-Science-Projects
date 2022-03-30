@@ -1,0 +1,5 @@
+In mid-2021, KyngaCell launched a new online gaming community. This enabled users to connect and interact during and outside of gameplay. It is now 2023 and the Chief Analytics Officer (CAO) requested to evaluate this new service. Our three objectives to assess the effectiveness are: 
+1) determine if online gaming increased user revenue
+2) determine if the online community led to an increase in user retention, and 
+3) determine if the online community led to an increase in CLV
+In addition, we took a step further to explain the campaign effectiveness. We apply diff in diff and customer life time value in R to translate raw data to business insights. Based on our findings, the online community successfully increased revenue in the short term but failed to boost retention rate and CLV in the long run. The same ineffectiveness is observed in the campaign. Thus, KyngaCell should provide more incentives to improve user engagement. 
