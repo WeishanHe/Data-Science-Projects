@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Data Science projects including Diff in Diff, CLV, Conjoint Analysis, PCA, PCR, Bootstrap, Logistic Regression, Random Forest, XGBoost, Web Scrapping, and MongoDB.
+Data Science projects including Diff in Diff, CLV, Conjoint Analysis, PCA, PCR, Bootstrap, Logistic Regression, Random Forest, and XGBoost.
 
 **1. New Feature Performance Evaluation using DID and CLV (in R)** <br>
 In mid-2021, KyngaCell launched a new online gaming community. This enabled users to connect and interact during and outside of gameplay. It is now 2023 and the Chief Analytics Officer (CAO) requested to evaluate this new service. Our three objectives to assess the effectiveness are: 
@@ -25,8 +25,6 @@ Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence level
 **4. Brand Map_Use PCA and PCR to Visualize Brand Competition (in R)** <br>
 Build brand maps for car brands and recommend to Infinity's managers what they should do to improve their product design.
 
-**5. Build Hotel Database Using Web Scrapping (in Python)**
+**5. Fraud Detection Using Supervised Machine Learning (in Python)**
 
-**6. Fraud Detection Using Supervised Machine Learning (in Python)**
-
-**7. Feature Selection Using Shrinkage Regressions (in R)**
+**6. Feature Selection Using Shrinkage Regressions (in R)**
