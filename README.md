@@ -26,5 +26,4 @@ Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence level
 Build brand maps for car brands and recommend to Infinity's managers what they should do to improve their product design.
 
 **5. Fraud Detection Using Supervised Machine Learning (in Python)**
-
-**6. Feature Selection Using Shrinkage Regressions (in R)**
+In this project, I first conducted EDA to learn about the dataset and then applied logistic regression, random forest, and XGBoost on simulated transaction data in order to improve the PaySim’s ability to detect fraudulent transactions. All three models yield high accuracy in detecting fraud payment. We considered logistic regression as the best model for the simulated data given its lower time cost. Real-world transaction data are required to improve model performance and choose the best algorithm.
