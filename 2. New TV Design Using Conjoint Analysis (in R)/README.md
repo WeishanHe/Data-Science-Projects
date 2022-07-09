@@ -1,3 +1,6 @@
+# New TV Design Using Conjoint Analysis 
+
+## Conjoint Analysis of TV pricing
 The company is going to launch a new TV. The DS team is required to use design matrix to conduct conjoint analysis in order to generate an optimal price. 
 
 Conjoint analysis is a technique that helps us understand how customers value different features of a product or service. This technique allows us to determine the attribute importance, ideal product profiles, the price premium for brand names, and ultimately the optimal price in terms of profitability. This project presents the fundamental steps required to conduct conjoint analysis, followed by an actual illustration of the analysis done with our group members' data in rankings different Flat-Panel TV designs.
